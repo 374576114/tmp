@@ -1,0 +1,10 @@
+5 mux 5-choice
+
+x input
+y input
+r output
+alu choice
+4
+
+something else output{ common specail cases }
+

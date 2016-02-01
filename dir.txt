@@ -1,0 +1,72 @@
+.:
+总用量 96
+-rw-rw-r-- 1 craboyang craboyang   172  1月 10 23:15 1.c
+-rw-rw-r-- 1 craboyang craboyang  1254  1月 11 15:24 1.cpp
+-rwxrwxr-x 1 craboyang craboyang 14358  1月 11 15:24 a.out
+-rw-rw-r-- 1 craboyang craboyang   315  1月  8 21:48 class.cpp
+-rw-rw-r-- 1 craboyang craboyang     0  1月 12 12:54 dir.txt
+-rw-rw-r-- 1 craboyang craboyang   816  1月  1 14:06 _file_close_test.c
+-rw-rw-r-- 1 craboyang craboyang   218  1月  6 13:11 float.c
+drwxrwxr-x 3 craboyang craboyang  4096 12月 27 14:50 javaCallC
+-rw-rw-r-- 1 craboyang craboyang    28 12月 18 13:36 Makefile
+-rw-rw-r-- 1 craboyang craboyang   102 12月 31 09:53 note.txt
+drwxrwxr-x 2 craboyang craboyang  4096  1月  3 02:17 parallel
+drwxrwxr-x 2 craboyang craboyang  4096 12月 21 14:13 rapoov7
+-rw-rw-r-- 1 craboyang craboyang   289  1月  9 13:35 signal.c
+drwxrwxr-x 2 craboyang craboyang  4096  1月  9 13:38 signal_learn
+-rw-rw-r-- 1 craboyang craboyang   669 12月 28 19:31 static.c
+drwxrwxr-x 2 craboyang craboyang  4096 12月 25 22:17 study
+drwxrwxr-x 2 craboyang craboyang  4096  1月 10 22:20 system
+-rw-rw-r-- 1 craboyang craboyang  2121 12月  7 18:34 tags
+-rw-rw-r-- 1 craboyang craboyang    62  1月  8 22:09 t++.c
+-rw-rw-r-- 1 craboyang craboyang   137  1月  7 16:47 time.c
+-rw-rw-r-- 1 craboyang craboyang   436  1月  8 18:06 tmp.cpp
+-rw-rw-r-- 1 craboyang craboyang     7  1月  6 13:43 utf.txt
+
+./javaCallC:
+总用量 36
+drwxrwxr-x 2 craboyang craboyang 4096 12月 27 14:36 jni
+-rw-rw-r-- 1 craboyang craboyang  414 12月 27 14:50 jni_TestJni.h
+-rwxrwxr-x 1 craboyang craboyang 8027 12月 27 14:50 libtestjni.so
+-rw-rw-r-- 1 craboyang craboyang  281 12月 27 14:49 Makefile
+-rw-rw-r-- 1 craboyang craboyang    0 12月 27 14:37 TestJni.
+-rw-rw-r-- 1 craboyang craboyang  330 12月 27 14:50 TestJni.c
+-rw-rw-r-- 1 craboyang craboyang  470 12月 27 14:42 TestJni.class
+-rw-rw-r-- 1 craboyang craboyang  220 12月 27 14:42 TestJni.java
+-rw-rw-r-- 1 craboyang craboyang 1656 12月 27 14:50 TestJni.o
+
+./javaCallC/jni:
+总用量 12
+-rwxrwxr-x 1 craboyang craboyang 8026 12月 27 14:36 libtestjni.so
+-rw-rw-r-- 1 craboyang craboyang  466 12月 27 13:51 TestJni.class
+
+./parallel:
+总用量 28
+-rwxrwxr-x 1 craboyang craboyang 8603  1月  3 02:16 a.out
+-rw-rw-r-- 1 craboyang craboyang  668 12月 31 10:31 greetings_mpi.c
+-rw-rw-r-- 1 craboyang craboyang  672 12月 30 23:13 hello_mpi.c
+-rw-rw-r-- 1 craboyang craboyang   34 12月 30 23:14 READ.txt
+-rw-rw-r-- 1 craboyang craboyang  338  1月  3 02:17 test.c
+
+./rapoov7:
+总用量 4
+-rw-rw-r-- 1 craboyang craboyang 6 12月 21 14:13 hello.txt
+
+./signal_learn:
+总用量 20
+-rwxrwxr-x 1 craboyang craboyang 9040 12月 31 20:07 a.out
+-rw-rw-r-- 1 craboyang craboyang  746  1月  9 13:38 async_io_app.c
+-rw-rw-r-- 1 craboyang craboyang   30 12月 31 20:04 test.txt
+
+./study:
+总用量 24
+-rwxrwxr-x 1 craboyang craboyang 8741 12月 25 22:01 a.out
+-rw-rw-r-- 1 craboyang craboyang  179 12月 25 01:20 macro_1.c
+-rw-rw-r-- 1 craboyang craboyang  923 12月 25 01:19 macro.c
+-rw-rw-r-- 1 craboyang craboyang 1047 12月 25 22:04 stack_test.c
+
+./system:
+总用量 20
+-rw-rw-r-- 1 craboyang craboyang  265  1月 10 22:18 1.c
+-rwxrwxr-x 1 craboyang craboyang 8873  1月 10 22:19 a.out
+-rwxrwxr-x 1 craboyang craboyang   26  1月 10 22:20 print.sh

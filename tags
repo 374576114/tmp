@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	static_mem.cpp	/^struct A{$/;"	s	file:
+A	test_p_auto.cpp	/^		A(){$/;"	f	class:A
+A	test_p_auto.cpp	/^		A(int b){$/;"	f	class:A
+A	test_p_auto.cpp	/^class A{$/;"	c	file:
+Disassembly	disas.s	/^Disassembly of section .fini:$/;"	l
+Disassembly	disas.s	/^Disassembly of section .init:$/;"	l
+Disassembly	disas.s	/^Disassembly of section .plt:$/;"	l
+Disassembly	disas.s	/^Disassembly of section .text:$/;"	l
+P	test.c	/^void P(int semid, int index){$/;"	f
+V	test.c	/^void V(int semid, int index){$/;"	f
+_GLOBAL__sub_I_main	1.s	/^_GLOBAL__sub_I_main:$/;"	l
+_Z41__static_initialization_and_destruction_0ii	1.s	/^_Z41__static_initialization_and_destruction_0ii:$/;"	l
+a	static_mem.cpp	/^		int a;$/;"	m	struct:A	file:
+a	test.c	/^int a = 0;$/;"	v
+a	test_p_auto.cpp	/^	int a;$/;"	m	class:A	file:
+b	static_mem.cpp	/^		int b;$/;"	m	struct:A	file:
+bPrint	test.c	/^int bPrint = 1;$/;"	v
+i	static_mem.cpp	/^	static int *j, A::*ja, i[5];\/*{{{*\/$/;"	m	struct:A	file:
+j	static_mem.cpp	/^	static int *j, A::*ja, i[5];\/*{{{*\/$/;"	m	struct:A	file:
+ja	static_mem.cpp	/^	static int *j, A::*ja, i[5];\/*{{{*\/$/;"	m	class:A::A	file:
+k	static_mem.cpp	/^		static int &k, *n;\/*}}}*\/$/;"	m	struct:A	file:
+main	1.cpp	/^int main(int argc, int *argv[]){$/;"	f
+main	1.s	/^main:$/;"	l
+main	2.cpp	/^int main(int argc, int *argv[]){$/;"	f
+main	asm.c	/^int main(){$/;"	f
+main	static_mem.cpp	/^int main(){$/;"	f
+main	test.c	/^int main(){$/;"	f
+main	test_p_auto.cpp	/^int main(){$/;"	f
+max	test.c	/^const int max = 9;$/;"	v
+n	static_mem.cpp	/^		static int &k, *n;\/*}}}*\/$/;"	m	struct:A	file:
+p1	test.c	/^pthread_t p1, p2;$/;"	v
+p2	test.c	/^pthread_t p1, p2;$/;"	v
+semid	test.c	/^int semid;$/;"	v
+subp1	test.c	/^void *subp1(){$/;"	f
+subp2	test.c	/^void * subp2(){$/;"	f
+~A	test_p_auto.cpp	/^		~A(){$/;"	f	class:A
